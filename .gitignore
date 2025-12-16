@@ -1,0 +1,11 @@
+# Ignore result files and notebook checkpoints
+Result/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+env/
+venv/
+.env
+*.egg-info/
+/.vscode/
+*.log
